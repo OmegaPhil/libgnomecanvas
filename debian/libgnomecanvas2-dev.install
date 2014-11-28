@@ -1,0 +1,4 @@
+usr/include
+usr/lib/*/pkgconfig
+usr/lib/*/libgnomecanvas-2.a
+usr/lib/*/libgnomecanvas-2.so
