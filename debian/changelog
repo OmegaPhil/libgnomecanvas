@@ -1,3 +1,10 @@
+libgnomecanvas (2.30.3-2.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Fix stupid paint memory leak - see #753621.
+
+ -- OmegaPhil <OmegaPhil@startmail.com>  Fri, 28 Nov 2014 19:24:53 +0000
+
 libgnomecanvas (2.30.3-2) unstable; urgency=low
 
   * Switch to multiarch. Closes: #695556.
